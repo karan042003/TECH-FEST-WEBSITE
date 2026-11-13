@@ -192,7 +192,7 @@ Suggestions and improvements are welcome.
 
 ## 📄 License
 
-No license is currently included. Add a `LICENSE` file to specify how others may use, modify, and distribute this project.
+No license is currently included. 
 
 ---
 
